@@ -29,6 +29,7 @@ Figures shown subsequently are taken from the Tableau dashboard. For the full in
 - AOV decline served as an early indicator of broader business weakness, preceding the sustained year-over-year declines in revenue (21 consecutive months) and order volume (12 consecutive months).
 
 ## Product Performance
+![Heatmap](https://github.com/jonathanchoo134/CoreCircuit-Analysis/blob/3b28802c0e595f9ab752229b21f1bf8be19bea4c/Figures/Product%201.png)
 
 - Across the quarters, revenue is highly concentrated, with the top two products (27in 4K gaming monitor, Apple Airpods Headphones) contributing around 50–70% of total revenue, and the top four products (top two products plus Macbook Air Laptop and Thinkpad Laptop) accounting for more than 90% of total revenue. This indicates a strong dependency on top products and a decline in their performance could greatly affect revenue.
 - Among the rest of the products, the Bose Soundsport Headphones and Apple Iphone were the worst performing products, contributing to around 0.02% and less than 1% of total revenue respectively.
