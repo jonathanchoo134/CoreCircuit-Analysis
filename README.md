@@ -27,3 +27,8 @@ Figures shown subsequently are taken from the Tableau dashboard. For the full in
 
 - From February 2021 to December 2022, AOV declined on a year-over-year basis for almost 23 consecutive months, with the exception on September 2022 where it increased 3.55%. On a month-over-month basis, AOV fluctuates between positive and negative. This suggests that despite intermittent MoM improvements, seasonality effects and other effects were insufficient to offset a sustained structural decline in transaction value.
 - AOV decline served as an early indicator of broader business weakness, preceding the sustained year-over-year declines in revenue (21 consecutive months) and order volume (12 consecutive months).
+
+## Product Performance
+
+- Across the quarters, revenue is highly concentrated, with the top two products (27in 4K gaming monitor, Apple Airpods Headphones) contributing around 50–70% of total revenue, and the top four products (top two products plus Macbook Air Laptop and Thinkpad Laptop) accounting for more than 90% of total revenue. This indicates a strong dependency on top products and a decline in their performance could greatly affect revenue.
+- Among the rest of the products, the Bose Soundsport Headphones and Apple Iphone were the worst performing products, contributing to around 0.02% and less than 1% of total revenue respectively.
