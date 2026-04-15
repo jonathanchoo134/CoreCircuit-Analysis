@@ -40,5 +40,10 @@ Figures shown subsequently are taken from the Tableau dashboard. For the full in
 - Interestingly, Apple Airpods Headphones have the lowest refund rate but higest volume across the years and both the ThinkPad and Macbook Air Laptop have the highest refund rate but lowest volume across the years. This indicates that further analysis should be conducted to understand the drivers of refunds.
 
 ## Loyalty Program
+![Loyalty](https://github.com/jonathanchoo134/CoreCircuit-Analysis/blob/6f3b3b1bc42bababab56d6d155faf24b24987f63/Figures/Loyalty%201.png)
 
 - The total share of revenue follows a pronounced cyclical pattern, with crossings on March 2021 and September 2022. The number of customers who transacted roughly tracks this shift over time. For revenue per customer, this pattern is more volatile and less stable, suggesting that revenue share movements are primarily driven by changes in customer volume rather than spending behavior. This indicates that loyalty program performance is more sensitive to participation levels than per-customer value.
+
+## Regional
+
+- The NA and EMEA region are the largest contributor to revenue, consistently making 70-80% of the total revenue, with the NA region being the most dominant, contributing to around 50% of the total revenue. LATAM is the worst performing region contributing to less than 10% of the total revenue. This suggests that similar to the analysis no products, there is a strong dependence on top regions performing.
