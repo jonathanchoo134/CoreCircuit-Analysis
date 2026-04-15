@@ -34,5 +34,4 @@ Figures shown subsequently are taken from the Tableau dashboard. For the full in
 - Across the quarters, revenue is highly concentrated, with the top two products (27in 4K gaming monitor, Apple Airpods Headphones) contributing around 50–70% of total revenue, and the top four products (top two products plus Macbook Air Laptop and Thinkpad Laptop) accounting for more than 90% of total revenue. This indicates a strong dependency on top products and a decline in their performance could greatly affect revenue.
 - Among the rest of the products, the Bose Soundsport Headphones and Apple Iphone were the worst performing products, contributing to around 0.02% and less than 1% of total revenue respectively.
 
-![Refund Rate](https://github.com/jonathanchoo134/CoreCircuit-Analysis/blob/ad9759cfe05a3478d4189143f075d9ce880b6c62/Figures/Refund%201.png)
-![Volume By Product](https://github.com/jonathanchoo134/CoreCircuit-Analysis/blob/eb2f5f88b200f3ee9f415926ee2d2e53cb7681e1/Figures/Refund%202.png)
+![Refund Rate](https://github.com/jonathanchoo134/CoreCircuit-Analysis/blob/ad9759cfe05a3478d4189143f075d9ce880b6c62/Figures/Refund%201.png)![Volume By Product](https://github.com/jonathanchoo134/CoreCircuit-Analysis/blob/eb2f5f88b200f3ee9f415926ee2d2e53cb7681e1/Figures/Refund%202.png)
