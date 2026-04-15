@@ -23,3 +23,6 @@ Figures shown subsequently are taken from the Tableau dashboard. For the full in
 
 # Insights Deep-dive
 ## Sales Trend Analysis
+
+- From February 2021 to December 2022, AOV declined on a year-over-year basis for almost 23 consecutive months, with the exception on September 2022 where it increased 3.55%. On a month-over-month basis, AOV fluctuates between positive and negative. This suggests that despite intermittent MoM improvements, seasonality effects and other effects were insufficient to offset a sustained structural decline in transaction value.
+- AOV decline served as an early indicator of broader business weakness, preceding the sustained year-over-year declines in revenue (21 consecutive months) and order volume (12 consecutive months).
