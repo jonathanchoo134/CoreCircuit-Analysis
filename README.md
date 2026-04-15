@@ -21,5 +21,5 @@ Figures shown subsequently are taken from the Tableau dashboard. For the full in
 
 ![Overview Snapshot](https://github.com/jonathanchoo134/CoreCircuit-Analysis/blob/b843c80a3fe19afae253492080d6638557a6cb3f/Figures/Executive%20Summary%201.png)
 
-#Insights Deep-dive
+# Insights Deep-dive
 ## Sales Trend Analysis
