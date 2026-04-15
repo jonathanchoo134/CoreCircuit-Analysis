@@ -35,3 +35,9 @@ Figures shown subsequently are taken from the Tableau dashboard. For the full in
 - Among the rest of the products, the Bose Soundsport Headphones and Apple Iphone were the worst performing products, contributing to around 0.02% and less than 1% of total revenue respectively.
 
 ![Refund Rate](https://github.com/jonathanchoo134/CoreCircuit-Analysis/blob/ad9759cfe05a3478d4189143f075d9ce880b6c62/Figures/Refund%201.png)![Volume By Product](https://github.com/jonathanchoo134/CoreCircuit-Analysis/blob/eb2f5f88b200f3ee9f415926ee2d2e53cb7681e1/Figures/Refund%202.png)
+
+- Among the top 4 performing products, the Thinkpad Laptop and Macbook Air Laptop have the highest refund rate across the years, peaking at 17% and 18% in 2019 respectively. The 27in 4K gaming monitor and Apple Airpods Headphones were the lowest amongst the 4, peaking at 11% and 10% respectively in 2020.
+- Interestingly, Apple Airpods Headphones have the lowest refund rate but higest volume across the years and both the ThinkPad and Macbook Air Laptop have the highest refund rate but lowest volume across the years. This indicates that further analysis should be conducted to understand the drivers of refunds.
+
+## Loyalty Program
+
