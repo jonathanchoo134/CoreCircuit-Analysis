@@ -8,3 +8,6 @@ The key insights and recommendations are provided on the following areas:
 - **Product Performance:** Analysis of CoreCircuit's product line and product refunds.
 - **Loyalty Program:** Evaluation on the impact of loyalty program on customer revenue generation.
 - **Regional:** Evaluation of regional revenue and product performance.
+
+# Data Structure
+This conceptual model illustrates how the dataset could be normalized into multiple related tables.
