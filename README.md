@@ -50,3 +50,8 @@ Figures shown subsequently are taken from the Tableau dashboard. For the full in
 - The NA and EMEA region are the largest contributor to revenue, consistently making 70-80% of the total revenue, with the NA region being the most dominant, contributing to around 50% of the total revenue. LATAM is the worst performing region contributing to less than 10% of the total revenue. This suggests that similar to the analysis no products, there is a strong dependence on top regions performing.
 
 # Recommendations
+Based on the analysis above, the following recommendations have been provided:
+- With clear product and regional dominance on revenue, it is crucial to diversity the product portfolio. These products can come from accessories of the top performing products like gaming mouse, keyboards and storage drives. Products offered should also be localised to better target specific regional customer characteristics.
+- Since Apple iPhone and Bose SoundSport Headphones contribute less than 1% of total revenue, their inclusion in the portfolio should be re-evaluated. A detailed analysis of customer demand is recommended to determine whether these products should be discontinued.
+- Given the relationship with the refund rate and volume, a comparative analysis of product quality, defect rates, and customer feedback should be conducted to strengthen quality control processes.
+- Finally, to leverage on the sensitivity of participation levels, prioritize boosting participation through targeted promotions and loyalty-specific benefits such as exclusive rewards, tiered incentives, and loyalty-only offers. 
