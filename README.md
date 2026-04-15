@@ -11,3 +11,5 @@ The key insights and recommendations are provided on the following areas:
 
 # Data Structure
 This conceptual model illustrates how the dataset could be normalized into multiple related tables.
+
+![image_alt][https://github.com/jonathanchoo134/CoreCircuit-Analysis/blob/a74bd21eaebc74f9f19bba4c98314aa2322ace97/Figures/CoreCircuit_ERD.png]
