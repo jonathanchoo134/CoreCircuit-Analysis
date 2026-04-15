@@ -41,3 +41,4 @@ Figures shown subsequently are taken from the Tableau dashboard. For the full in
 
 ## Loyalty Program
 
+- The total share of revenue follows a pronounced cyclical pattern, with crossings on March 2021 and September 2022. The number of customers who transacted roughly tracks this shift over time. For revenue per customer, this pattern is more volatile and less stable, suggesting that revenue share movements are primarily driven by changes in customer volume rather than spending behavior. This indicates that loyalty program performance is more sensitive to participation levels than per-customer value.
