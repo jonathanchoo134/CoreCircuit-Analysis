@@ -47,7 +47,7 @@ Figures shown subsequently are taken from the Tableau dashboard. For the full in
 ## Regional
 ![Region](https://github.com/jonathanchoo134/CoreCircuit-Analysis/blob/f8dd4cf3b4cc03ea4b969573e12b7533cdef2ee2/Figures/Region%201.png)
 
-- The NA and EMEA region are the largest contributor to revenue, consistently making 70-80% of the total revenue, with the NA region being the most dominant, contributing to around 50% of the total revenue. LATAM is the worst performing region contributing to less than 10% of the total revenue. This suggests that similar to the analysis no products, there is a strong dependence on top regions performing.
+- The NA and EMEA region are the largest contributor to revenue, consistently making 70-80% of the total revenue, with the NA region being the most dominant, contributing to around 50% of the total revenue. LATAM is the worst performing region contributing to less than 10% of the total revenue. This suggests that similar to the analysis of products, there is a strong dependence on top regions performing.
 
 # Recommendations
 Based on the analysis above, the following recommendations have been provided:
