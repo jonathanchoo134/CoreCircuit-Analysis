@@ -17,7 +17,7 @@ This conceptual model illustrates how the dataset could be normalized into multi
 # Executive Summary
 After revenue peaked in the pandemic era, the company's revenue have experienced a continued decline. Key performance indicators have revealed year-over-year decreases: order volume by 40%, revenue by 46% and AOV by 10%. While this decline in performance might be attributed by the gradual recovery of the pandemic, the following analysis will explore the various contributing factors and highlight actionable insights for improvement.
 
-Figures shown subsequently are taken from the Tableau dashboard. For the full interactive dashboard, please click this [link](https://public.tableau.com/shared/ZBK7MHK55?:display_count=n&:origin=viz_share_link). Below is a snapshot of the overview dashboard.
+Figures shown subsequently are taken from the Tableau dashboard. For the full interactive dashboard, please click this [link](https://public.tableau.com/views/CoreCircuitPerformance/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). Below is a snapshot of the overview dashboard.
 
 ![Overview Snapshot](https://github.com/jonathanchoo134/CoreCircuit-Analysis/blob/b843c80a3fe19afae253492080d6638557a6cb3f/Figures/Executive%20Summary%201.png)
 
